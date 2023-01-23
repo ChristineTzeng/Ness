@@ -1,4 +1,2 @@
-# Hermione
-Norm + Emotions
-
-Consider emotions as information for social learning
+# Code for simulations of a pandemic scenario that consider social signals
+# Simulation code for paper: S.T. Tzeng, N. Ajmeri, and M. P. Singh, ‘‘Norm Emergence through Social Signals’’.
