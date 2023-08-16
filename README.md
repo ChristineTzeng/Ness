@@ -9,7 +9,10 @@ Ness_data_process.ipynb - For results processing and plotting figures
 stats.ipynb - For statistical analysis
 
 # Required packgaes
+
 scipy 
+numpy
+pandas
 mesa
 seaborn
 
