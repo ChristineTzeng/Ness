@@ -1,4 +1,5 @@
 type,steps,infected,healthy,asymptomatic,mild,critical,deceased,vaccinated,forced_quarantine,violation,isolation,robustness,stay_home,voluntarily_stay_home_infected,self_directed_emotion,other_directed_emotion,desire_satisfaction,total_number_infections,reward
+sanctioning,0,30.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 sanctioning,1,18.0,82.0,7.0,11.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,30.0,0.3,0.0,0.0,0.33,0.3,-0.26
 sanctioning,2,71.4,28.6,60.3,11.05,0.05,0.0,1.65,0.0,0.8753501400560223,0.12464985994397759,0.12464985994397759,14.55,0.14550000000000002,0.0,0.0,0.3165,0.877,-0.3
 sanctioning,3,47.1,52.9,16.1,30.9,0.1,0.0,2.4,0.45,0.0732484076433121,0.9267515923566878,0.9267515923566879,83.45,0.83,0.0,0.0,0.332,0.9045,-0.119
