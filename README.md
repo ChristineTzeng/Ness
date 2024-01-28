@@ -6,7 +6,7 @@ Code is in python3 and run with jupyter notebook.
 
 main.ipynb - For running simulation
 
-Ness_data_process.ipynb - For results processing and plotting figures
+Nest_data_process.ipynb - For results processing and plotting figures
 
 stats.ipynb - For statistical analysis
 
